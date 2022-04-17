@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Adrian/AndroidStudioProjects/Midterm_Francis_Adrian/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adrian/AndroidStudioProjects/Midterm_Francis_Adrian/app/src/main/res/layout/activity_remove.xml" value="0.5" />
+        <entry key="..\:/Users/Adrian/AndroidStudioProjects/Midterm_Francis_Adrian/app/src/main/res/layout/activity_update.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Adrian/AndroidStudioProjects/Midterm_Francis_Adrian/app/src/main/res/layout/doc_entry.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Adrian/AndroidStudioProjects/Midterm_Francis_Adrian/app/src/main/res/layout/fragment_api.xml" value="0.22" />
+        <entry key="..\:/Users/Adrian/AndroidStudioProjects/Midterm_Francis_Adrian/app/src/main/res/layout/fragment_blank.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Adrian/AndroidStudioProjects/Midterm_Francis_Adrian/app/src/main/res/layout/fragment_display.xml" value="0.4603421461897356" />
+        <entry key="..\:/Users/Adrian/AndroidStudioProjects/Midterm_Francis_Adrian/app/src/main/res/layout/fragment_movies.xml" value="0.38822447102115915" />
+        <entry key="..\:/Users/Francis Dator/Desktop/Midterm_Francis_Adrian/app/src/main/res/layout/activity_main.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/Francis Dator/Desktop/Midterm_Francis_Adrian/app/src/main/res/layout/activity_remove.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Francis Dator/Desktop/Midterm_Francis_Adrian/app/src/main/res/layout/activity_update.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/Francis Dator/Desktop/Midterm_Francis_Adrian/app/src/main/res/layout/doc_entry.xml" value="0.33" />
+        <entry key="..\:/Users/Francis Dator/Desktop/Midterm_Francis_Adrian/app/src/main/res/layout/fragment_api.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/Francis Dator/Desktop/Midterm_Francis_Adrian/app/src/main/res/layout/fragment_display.xml" value="0.20606884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

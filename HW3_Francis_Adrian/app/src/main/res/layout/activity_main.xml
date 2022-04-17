@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="70dp"
+        android:layout_marginEnd="70dp"
+        android:layout_marginBottom="56dp"
+        app:layout_constraintBottom_toTopOf="@+id/main_button_signup"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/main_appname"
+        app:srcCompat="@drawable/csusmlogo_fullnamehillsabove_blue" />
+
+    <Button
+        android:id="@+id/main_button_signup"
+        android:layout_width="117dp"
+        android:layout_height="54dp"
+        android:layout_marginBottom="66dp"
+        android:text="Signup"
+        app:layout_constraintBottom_toTopOf="@+id/main_button_login"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <Button
+        android:id="@+id/main_button_login"
+        android:layout_width="119dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="133dp"
+        android:text="Login"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/main_button_signup"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <TextView
+        android:id="@+id/main_appname"
+        android:layout_width="114dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="123dp"
+        android:layout_marginBottom="34dp"
+        android:fontFamily="monospace"
+        android:text="CSUSM"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="35sp"
+        app:drawableTint="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
